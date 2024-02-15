@@ -61,4 +61,82 @@ Aquí hay una explicación de diferentes tipos de modelos de IA:
 
 - **RNN (Redes Neuronales Recurrentes)**: Los RNN son ideales para manejar datos secuenciales, como series temporales o lenguaje natural. Alimentan software de reconocimiento de voz y servicios de traducción de idiomas, haciéndolos integrales para muchas aplicaciones de comunicación.
 
-- **GAN (Redes Generativas Antagónicas)**: Estas redes son conocidas por generar nuevas instancias de datos que imitan los
+- **GAN (Redes Generativas Antagónicas)**: Estas redes son conocidas por generar nuevas instancias de datos que imitan los datos de entrenamiento. Están detrás de la creación de imágenes realistas para videojuegos y arte digital, con modelos populares que incluyen DALL-E, Midjourney y Stable Diffusion.
+
+- **RL (Aprendizaje por Refuerzo)**: Los modelos de RL aprenden a tomar decisiones interactuando con un entorno para maximizar una recompensa. Se utilizan en robótica para tareas como la navegación autónoma y en la industria de los videojuegos para desarrollar IA que puede superar a los jugadores humanos.
+
+- **Modelos Transformadores**: Especializados en el procesamiento del lenguaje natural, estos modelos son conocidos por su mecanismo de autoatención, que les permite ponderar la importancia de diferentes partes de los datos de entrada. Se utilizan comúnmente en chatbots y para la creación de contenido automatizado.
+
+- **Autoencoders**: Estos modelos se utilizan para tareas de aprendizaje no supervisado como la reducción de dimensionalidad o el aprendizaje de características. Juegan un papel crucial en sistemas de detección de anomalías y técnicas de compresión de datos.
+
+Entender estos modelos puede ayudarte a apreciar las capacidades y aplicaciones de la IA en varios campos.
+
+
+## Principales Actores en el Panorama de la Industria de la IA
+La industria de la IA está evolucionando rápidamente, con numerosos actores clave compitiendo por el dominio y la innovación. Compañías como OpenAI, Microsoft, Google, Amazon y Facebook están a la vanguardia, cada una esforzándose por obtener una parte significativa del mercado. En este curso, profundizaremos en el software de IA más avanzado y líder en la industria, mejorando tus habilidades laborales para satisfacer las demandas del futuro.
+
+Exploraremos una variedad de herramientas poderosas, incluyendo:
+- **ChatGPT**: Revoluciona tu comunicación con conversaciones impulsadas por IA.
+- **Midjourney**: Embarcate en un viaje de descubrimiento e innovación de IA.
+- **StableDiffusion**: Desata el poder de la IA en la creación de contenido visual impresionante.
+- **LLMs de Código Abierto**: Aprovecha el vasto potencial de los modelos de lenguaje de código abierto.
+- **ElevenLabs**: Experimenta el siguiente nivel de síntesis de voz con IA.
+- **Zapier**: Automatiza tu flujo de trabajo con facilidad y eficiencia.
+
+Y eso es solo el comienzo. Te presentaremos un conjunto completo de herramientas diseñadas para agilizar tu trabajo y hacer que tus tareas diarias sean un paseo.
+
+
+### Entendiendo los Prompts y Su Papel en la Ejecución de Tareas de IA
+
+Los prompts son esencialmente instrucciones o entradas dadas a una IA, que guían a la IA para realizar una tarea específica o generar una salida particular. En el contexto de ChatGPT o modelos de lenguaje similares, los prompts suelen ser basados en texto y pueden variar desde comandos simples hasta consultas o declaraciones complejas.
+
+La efectividad de una IA en la realización de una tarea depende en gran medida de la calidad y claridad del prompt proporcionado. Un prompt bien elaborado puede llevar a respuestas precisas y útiles, mientras que un prompt vago o mal construido puede resultar en salidas irrelevantes o incorrectas.
+
+Aquí hay algunos ejemplos de prompts que puedes usar con ChatGPT o tu chatbot de IA preferido, si quieres, puedes usar el chat de 4geeks [aquí](https://chat.4geeks.com/?token=db6d3e8b29a8b41a02ee97651462294c9627fe40&purpose=29&defaultPrompt=):
+
+| Tipo de Prompt           | Ejemplo de Prompt                                              | Ejemplo de Respuesta de IA                                           |
+|-----------------------|-------------------------------------------------------------|--------------------------------------------------------------|
+| Prompt de Comando Simple | "Traduce 'Hello, how are you?' al español."             | "Hola, ¿cómo estás?"                                         |
+| Prompt de Consulta Compleja  | "Explica la teoría de la relatividad en términos simples."         | Explicación simplificada de la teoría de Einstein.                  |
+| Prompt de Escritura Creativa | "Escribe una historia corta sobre un detective viajero en el tiempo."   | Narrativa basada en el tema dado.                           |
+| Prompt de Asistencia de Programación | "Proporciona una función de Python para calcular el factorial de un número." | Fragmento de código con la funcionalidad solicitada. |
+| Prompt de Análisis de Datos  | "Analiza los datos de ventas del último trimestre e identifica tendencias." | Datos procesados y patrones significativos resaltados.          |
+
+Al elaborar prompts para una IA, es importante ser específico sobre el resultado deseado, proporcionar el **contexto** necesario y estructurar el prompt de manera que guíe a la IA hacia la tarea prevista. Al dominar el arte de la escritura de prompts, puedes aprovechar las herramientas de IA de manera más efectiva para ayudar con una amplia gama de trabajos.
+
+**Contexto**: El contexto en la IA se refiere a la información adicional que ayuda al sistema de IA a comprender la situación, tarea o entorno con el que está lidiando. Proporciona detalles de fondo que guían a la IA para generar una respuesta más precisa y relevante. Por ejemplo, si le pides a una IA que "reserve un restaurante", el contexto podría incluir tu ubicación, cocina preferida, presupuesto y el número de personas que van a cenar. Con este contexto, la IA puede adaptar su búsqueda y recomendaciones en consecuencia. El contexto es crucial para que la IA procese las solicitudes de una manera que se alinee con las expectativas del usuario y los escenarios del mundo real.
+
+
+### Cuestionario Interactivo sobre Conceptos y Aplicaciones de la IA:
+
+1. En tus propias palabras para describir estas palabras en el contexto de la Inteligencia Artificial:
+   - **Inteligencia Artificial**: 
+   - **Modelo**: 
+   - **Prompt**: 
+   - **Modelo de Lenguaje de Gran Escala**: 
+
+2. **Explica el papel de los prompts en la IA y cómo afectan el resultado.**:
+
+3. **Emparejamiento de Casos de Uso de IA**:
+   Empareja la tecnología de IA con su caso de uso apropiado:
+   - **LLM**:
+      - [ ] Predecir tendencias del mercado de valores
+      - [ ] Generar un artículo de noticias
+      - [ ] Diagnosticar enfermedades a partir de imágenes médicas
+   - **IA de Visión por Computadora**:
+      - [ ] Reconocimiento facial en sistemas de seguridad
+      - [ ] Traducir un párrafo del inglés al mandarín
+      - [ ] Componer una pieza musical
+   - **IA de Reconocimiento de Voz**:
+      - [ ] Convertir palabras habladas en texto escrito
+      - [ ] Identificar objetos en una foto
+      - [ ] Crear un entorno de realidad virtual
+
+4. **Escenarios de Aplicación de IA en el Mundo Real**:
+   Describe un escenario en tu vida personal o profesional donde la IA podría proporcionar una solución o mejora. Sé específico sobre la tarea y la contribución esperada de la IA.
+
+
+**Discusión sobre el Impacto de la IA** (para discusión al final de la clase):
+   - ¿Crees que la IA creará más empleos de los que desplaza? ¿Por qué sí o por qué no?
+   - Discute cómo la IA podría cambiar el panorama educativo en la próxima década.
+   - Si tuvieras acceso a una IA avanzada capaz de cualquier tarea, ¿qué aplicación única desarrollarías?
