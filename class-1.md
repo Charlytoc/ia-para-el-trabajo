@@ -35,7 +35,7 @@ La IA está revolucionando el lugar de trabajo con su capacidad para realizar ta
 
 - **Marketing Personalizado**: La IA puede analizar el comportamiento del consumidor para entregar campañas de marketing altamente dirigidas. Esta personalización aumenta la participación, las tasas de conversión y la lealtad del cliente.
 
-- **Diagnósticos en Salud**: La IA puede ayudar en el diagnóstico de enfermedades analizando imágenes médicas con precisión y velocidad que superan las capacidades humanas, lo que lleva a un tratamiento más rápido y mejores resultados para los pacientes.
+- **Diagnósticos en el Cuidado de la Salud**: La IA puede ayudar en el diagnóstico de enfermedades analizando imágenes médicas con precisión y velocidad que superan las capacidades humanas, lo que lleva a un tratamiento más rápido y mejores resultados para los pacientes.
 
 - **Gestión Inteligente de la Energía**: La IA puede optimizar el consumo de energía en edificios y entornos industriales, reduciendo costos e impacto ambiental a través de la automatización inteligente y el mantenimiento predictivo.
 
@@ -57,8 +57,8 @@ Aquí hay una explicación de diferentes tipos de modelos de IA:
 
 - **LLM (Modelos de Lenguaje de Gran Escala)**: Estos modelos son expertos en comprender y generar lenguaje humano. GPT-3 de OpenAI es un ejemplo principal, conocido por su capacidad para generar texto similar al humano. BERT de Google es otro, que ayuda a mejorar los resultados de búsqueda al comprender mejor las consultas de búsqueda.
 
-- **CNN (Redes Neuronales Convolucionales)**: Las CNN sobresalen en tareas de reconocimiento y procesamiento de imágenes. Son ampliamente utilizadas en sistemas de reconocimiento facial y en la industria de la salud para el diagnóstico médico automatizado de imágenes.
+- **CNN (Redes Neuronales Convolucionales)**: Los CNN sobresalen en tareas de reconocimiento y procesamiento de imágenes. Son ampliamente utilizados en sistemas de reconocimiento facial y en la industria de la salud para el diagnóstico médico automatizado de imágenes.
 
-- **RNN (Redes Neuronales Recurrentes)**: Las RNN son ideales para manejar datos secuenciales, como series temporales o lenguaje natural. Alimentan software de reconocimiento de voz y servicios de traducción de idiomas, haciéndolos integrales para muchas aplicaciones de comunicación.
+- **RNN (Redes Neuronales Recurrentes)**: Los RNN son ideales para manejar datos secuenciales, como series temporales o lenguaje natural. Alimentan software de reconocimiento de voz y servicios de traducción de idiomas, haciéndolos integrales para muchas aplicaciones de comunicación.
 
-- **GAN (Redes Generativas Antagónicas)**: Estas redes son conocidas por generar nuevas instancias de datos que imitan los datos de entrenamiento. Est
+- **GAN (Redes Generativas Antagónicas)**: Estas redes son conocidas por generar nuevas instancias de datos que imitan los
